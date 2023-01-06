@@ -1,0 +1,19 @@
+
+tanks.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+right
+  rotate: false
+  xy: 20, 19
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 250, 307
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1

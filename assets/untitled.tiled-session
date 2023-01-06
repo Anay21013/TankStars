@@ -1,0 +1,141 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "main-map.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "BG.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Anay/Documents/123.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 641.3333333333333,
+                "y": 247.33333333333331
+            }
+        },
+        "C:/Users/Anay/Downloads/TankStars/desktop/build/resources/desktop/build/resources/main/tileset_gutter.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/Anay/Downloads/TankStars/desktop/build/resources/main/Screenshot (141).tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Anay/Downloads/TankStars/desktop/build/resources/main/main-map.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 377.33333333333326,
+                "y": 146
+            }
+        },
+        "C:/Users/Anay/Downloads/TankStars/desktop/build/resources/main/tileset_gutter.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/Anay/Downloads/TankStars/desktop/build/resources/main/tileset_gutter1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/Anay/Downloads/main-map.tmx": {
+            "scale": 1.065966796875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 512.2110759928541,
+                "y": 248.13155604415738
+            }
+        },
+        "C:/Users/Anay/Downloads/test2/assets/level-1.xml": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1568,
+                "y": 118.5
+            }
+        },
+        "C:/Users/Anay/Downloads/test2/assets/level-1.xml#tileset_gutter": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Anay/Downloads/test2/assets/tileset_gutter.tsx": {
+            "dynamicWrapping": false
+        },
+        "C:/Users/Anay/Downloads/test2/tileset_gutter.tsx": {
+            "dynamicWrapping": true
+        },
+        "C:/Users/Anay/Downloads/tileset_gutter.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Anay/Downloads/tileset_gutter1.tsx": {
+            "scaleInDock": 1
+        },
+        "Screenshot (141).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "main-map.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 476,
+                "y": 390.5
+            }
+        },
+        "menu.tmx": {
+            "scale": 1.065966796875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 512.2110759928541,
+                "y": 248.13155604415738
+            }
+        },
+        "tileset_gutter.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset_gutter1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Anay/Downloads/TankStars/assets",
+    "last.externalTilesetPath": "C:/Users/Anay/Downloads/TankStars/assets",
+    "last.imagePath": "C:/Users/Anay/Downloads/TankStars/assets",
+    "map.height": 31,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 64,
+    "openFiles": [
+        "tileset_gutter.tsx",
+        "main-map.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "C:/Users/Anay/Downloads/main-map.tmx",
+        "tileset_gutter.tsx",
+        "main-map.tmx",
+        "C:/Users/Anay/Downloads/TankStars/desktop/build/resources/main/main-map.tmx",
+        "Screenshot (141).tsx",
+        "BG.tsx",
+        "menu.tmx",
+        "C:/Users/Anay/Documents/123.tmx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 1,
+    "tileset.spacing": 2,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
